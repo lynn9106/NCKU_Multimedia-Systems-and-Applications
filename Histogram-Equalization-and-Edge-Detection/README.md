@@ -21,5 +21,3 @@
 
 ## Deteced Edges with Improving
 ![ImprovingImage](https://github.com/lynn9106/NCKU_Multimedia-Systems-and-Applications/blob/main/Histogram-Equalization-and-Edge-Detection/5_Detected_edges_with_improving.png)
-
-## 
